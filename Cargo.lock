@@ -59,6 +59,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "day-09"
+version = "0.1.0"
+dependencies = [
+ "glam",
+]
+
+[[package]]
 name = "day-_"
 version = "0.1.0"
 
